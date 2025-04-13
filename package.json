@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/tmdtmddl/movies-vite.git",
+  "homepage": "https://github.com/tmdtmddl/movies-vite/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
